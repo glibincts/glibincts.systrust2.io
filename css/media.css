@@ -1,0 +1,305 @@
+@media only screen and (max-width: 600px) {
+
+  .logo-class {
+    width: 50%;
+  }
+  .top-class{
+    padding-left: 0px;
+  }
+  .social-media-content{
+    padding-right: 0px;
+  }
+  .services-header{
+    width: 100%;
+  }
+  .services-content-2{
+    width: 100%;
+  }
+  .service-paragraph{
+    text-align: justify;
+    padding-top: 10px;
+    padding: 18px;
+  }
+  p br {
+    display: none;
+  }
+  .service-content{
+    text-align: justify;
+  }
+  .img-logo {
+    width: 153px;
+    padding: 15px;
+    padding-left: 10px;
+
+  }
+  .services-content-common{
+    margin: 0px;
+  }
+  .services-content-2{
+    margin-left: 8px;
+  }
+  .paraalign{
+    text-align: justify;
+    padding: 11px;
+  }
+  .service-content-1{
+    text-align: justify;
+    padding-left: 0px;
+  }
+
+  .top-class {
+    text-align: center;
+    width: 100%;
+    height: 74px;
+  }
+
+  .top-left-content {
+    width: 100%;
+    float: none !important;
+  }
+
+  .social-media-content {
+    width: 100%;
+    float: none !important;
+  }
+
+  .top-nav-class {
+    display: none;
+  }
+
+  .carousel-inner {
+    height: 100%;
+  }
+
+  .header {
+    height: auto;
+  }
+
+  .service-class {
+    width: 100%;
+    margin-left: 0%;
+    height: auto;
+    text-align: -webkit-center;
+  }
+
+  .service {
+    width: 100%;
+    float: left;
+    padding: 10px;
+  }
+
+  .service1 {
+    width: 95%;
+    ;
+  }
+
+  .firstlast-class {
+    height: auto;
+  }
+
+  .whole-page-class {
+    width: 100%;
+    height: auto;
+    float: left;
+  }
+
+  .ourservices-class {
+    height: auto;
+  }
+
+  .allservices {
+    padding-bottom: 10px;
+  }
+
+  .firstlast-class-inner {
+    height: auto;
+    float: left;
+  }
+
+  .firstlast-class-inner-1 {
+    height: auto;
+    width: 100%;
+  }
+
+  .firstlast-class-content {
+    width: 100%;
+    padding: 5px;
+    height: auto;
+  }
+
+  .ai-content {
+    width: 100%;
+    margin-left: 0px;
+
+  }
+
+  .aione2 {
+    width: 100%;
+  }
+
+  .ai {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .cloud {
+    width: 100%;
+
+  }
+
+  .cloud-content {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .cloud-image {
+    width: 100%;
+  }
+
+  .footer-content {
+    width: 98%;
+    margin-left: 0px;
+  }
+
+  .right-footer-class {
+    width: 100%;
+    padding-left: 45px;
+    padding-top: 0px;
+  }
+
+  .footer-bottom {
+    height: auto;
+    padding-bottom: 10px;
+  }
+
+  #myBtn {
+    bottom: 57px;
+  }
+
+  /* for gnav */
+  .mobile-container {
+    max-width: 480px;
+    margin: auto;
+    height: auto;
+    color: black;
+    border-radius: 10px;
+  }
+
+  .topnav {
+    color: black;
+    position: relative;
+  }
+
+  .topnav #myLinks {
+    display: none;
+    width: 100%;
+    float: left;
+  }
+
+  #myLinks {
+    background-color: lightslategray;
+  }
+
+  .topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+
+  .topnav a.icon {
+    color: cadetblue !important;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .topnav a:hover {
+    color:
+  }
+
+  .active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  /* end Gnav */
+  /* services page */
+  .services-header-ul li {
+    border: 2px solid;
+    display: block;
+  }
+
+  .content-1 {
+    width: 95%;
+  }
+
+  .services-header-ul {
+    width: 100%;
+  }
+
+  .services-content {
+    padding: 15px;
+  }
+
+  .services-content-common {
+    width: 100%;
+  }
+
+  .mobile-container {
+    display: block;
+  }
+
+  .sticky {
+    width: 95% !important;
+    border-radius: 10px;
+  }
+
+  .modal-content {
+    margin-left: 5px;
+    height: auto;
+    padding: 24px;
+    float: left;
+  }
+
+  .pop-header {
+    font-size: 16px;
+  }
+
+  .form-builder {
+    width: 100%;
+    padding: 1px;
+  }
+
+  .input {
+    width: 100%;
+    padding: 2%;
+    margin: 1px;
+  }
+
+  .input2 {
+    width: 100%;
+    padding: 2%;
+    margin: 1px;
+  }
+
+  #popbutton {
+    padding: 5px;
+    border-radius: 11px;
+    float: none;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  #popupclose {
+    font-size: 15px;
+    width: 27px;
+  }
+
+
+
+
+
+}
